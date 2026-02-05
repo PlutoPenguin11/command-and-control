@@ -4,8 +4,8 @@ A full-stack cybersecurity framework for agent management and remote task execut
 
 ## 🎓 Academic Project
 **Course:** Winter 2026 Network Security  
-**Team Members:** [Add your team members]  
-**Status:** In Development (Phase 1 Complete)
+**Team Members:** 
+**Status:** In Development 
 
 ---
 
